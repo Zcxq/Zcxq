@@ -1,21 +1,68 @@
 ### [Zcxq-#1337](https://www.discord.gg/8SEnBvebVt) / README.md
 <p align="center">
-Hi there, I'm Zcxq- 👋
+Hi there, I'm Zcxq- 👋!
+
 </p>
 <p align="center">
 I am a C++/C# Coder & Entrepeneur, Founder and owner of ЯAcademy
 </p>
 <p align="center">
-  <img width="500" src="https://cdn.discordapp.com/attachments/953401561646784573/987824233755316284/standard_21.gif" alt="Material Bread logo">
+Currently Selling Private MW2 Cheats in the store, There are a few free cheats here but they are not as good as paid ones...
+</p>
 
-<details open><summary><a href="https://racademy.sellix.io">𝗠𝗪𝟮 𝗖𝗵𝗲𝗮𝘁𝘀</a></summary>
 <p align="center">
-<img width="200" src="https://cdn.discordapp.com/attachments/953401561646784573/990280483306889256/crow.gif" alt="Crow.rip">
+  <img width="900" src="https://cdn.discordapp.com/attachments/953401561646784573/990323286644764672/standard_23.gif" alt="Material Bread logo">
+
+
+<details align="center"><summary><a href="https://racademy.sellix.io">𝗠𝗪𝟮 𝗖𝗵𝗲𝗮𝘁𝘀</a></summary>
 <p align="center">
-Paid Cheats are better than the free ones...
+<img width="500" src="https://cdn.discordapp.com/attachments/953401561646784573/987824233755316284/standard_21.gif" alt="Crow.rip">
+<p align="center">
+𝗣𝗮𝗶𝗱 𝗰𝗵𝗲𝗮𝘁𝘀 𝗮𝗿𝗲 𝗯𝗲𝘁𝘁𝗲𝗿 𝘁𝗵𝗮𝗻 𝗳𝗿𝗲𝗲 𝗼𝗻𝗲𝘀...
 </details>
 </p>
 
+<details align="center"><summary><a href="https://racademy.sellix.io">𝗟𝗘𝗔𝗞𝗘𝗗 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘𝗦</a></summary>
+<p align="center">
+<img width="500" src="https://cdn.discordapp.com/attachments/953401561646784573/990323286942576660/standard_20.gif" alt="Crow.rip">
+<p align="center">
+𝗣𝗮𝗶𝗱 𝗰𝗵𝗲𝗮𝘁𝘀 𝗮𝗿𝗲 𝗯𝗲𝘁𝘁𝗲𝗿 𝘁𝗵𝗮𝗻 𝗳𝗿𝗲𝗲 𝗼𝗻𝗲𝘀...
+</details>
+</p>
+
+<details align="center"><summary><a href="https://racademy.sellix.io">𝗟𝗘𝗔𝗞𝗘𝗗 𝗥𝗖𝗘 𝗧𝗢𝗢𝗟</a></summary>
+<p align="center">
+<img width="500" src="https://cdn.discordapp.com/attachments/953401561646784573/990323287215194204/standard_22.gif" alt="Crow.rip">
+<p align="center">
+𝗣𝗮𝗶𝗱 𝗰𝗵𝗲𝗮𝘁𝘀 𝗮𝗿𝗲 𝗯𝗲𝘁𝘁𝗲𝗿 𝘁𝗵𝗮𝗻 𝗳𝗿𝗲𝗲 𝗼𝗻𝗲𝘀...
+</details>
+</p>
+
+
 |[FREE MENU](https://github.com/Zcxq/Redbox-Hack-MW2) | [PAID CHEATS](https://racademy.sellix.io) | [DISCORD](https://www.discord.gg/8SEnBvebVt) |
 |--- | --- | ---|
+
+<samp>
+ <b><h2 style="color: #fc6203">A L L &nbsp; P R O D U C T S &nbsp; C O D E D &nbsp; B Y &nbsp; Z C X Q - !!</h2> </b>
+
+
+```diff
+
+
+@@  𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐇𝐖𝐈𝐃 𝐒𝐏𝐎𝐎𝐅𝐄𝐑 + 𝐇𝐎𝐒𝐓 𝐌𝐄𝐍𝐔  @@
++ Private Paid Lifetime Cheats 
+- RCE Bypasser + Blocker Menu's
+! Service Provider & Entrepeneur
+# 📖 Cracking and Reverse Engineering!
+# 📖 Bypassing VAC & EAC while shitting on servers with my amazing cheats
+```
+
+
+
+<p align="center">
+Watch my contributions get eaten up by a snake! 🐍
+</p>
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/100650037/175785879-b78aca25-ef32-4be2-be80-2f09b928807d.svg" alt="RACADEMY">
+</p>
 
