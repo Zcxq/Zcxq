@@ -1,16 +1,21 @@
-### Hi there 👋
+### [Zcxq-#1337](https://www.discord.gg/8SEnBvebVt) / README.md
+<p align="center">
+Hi there, I'm Zcxq- 👋
+</p>
+<p align="center">
+I am a C++/C# Coder & Entrepeneur, Founder and owner of ЯAcademy
+</p>
+<p align="center">
+  <img width="500" src="https://cdn.discordapp.com/attachments/953401561646784573/987824233755316284/standard_21.gif" alt="Material Bread logo">
 
-<!--
-**Zcxq/Zcxq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open><summary><a href="https://racademy.sellix.io">𝗠𝗪𝟮 𝗖𝗵𝗲𝗮𝘁𝘀</a></summary>
+<p align="center">
+<img width="200" src="https://cdn.discordapp.com/attachments/953401561646784573/990280483306889256/crow.gif" alt="Crow.rip">
+<p align="center">
+Paid Cheats are better than the free ones...
+</details>
+</p>
 
-Here are some ideas to get you started:
+|[FREE MENU](https://github.com/Zcxq/Redbox-Hack-MW2) | [PAID CHEATS](https://racademy.sellix.io) | [DISCORD](https://www.discord.gg/8SEnBvebVt) |
+|--- | --- | ---|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
