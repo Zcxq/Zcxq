@@ -39,7 +39,7 @@ Currently Selling Private MW2 Cheats in the store, There are a few free cheats h
 </p>
 
 
-|[FREE MENU](https://github.com/Zcxq/Repostories) | [OTHER TOOLS](https://racademy.sellix.io) | [DISCORD](https://www.discord.gg/mdZVCH69cH) |
+|[FREE MENU](https://github.com/Zcxq/Repositories) | [OTHER TOOLS](https://racademy.sellix.io) | [DISCORD](https://www.discord.gg/mdZVCH69cH) |
 |--- | --- | ---|
 
 <samp>
