@@ -7,7 +7,7 @@ Hi there, I'm Zcxq- 👋!
 I am a C++/C# Coder & Entrepeneur, Founder and owner of ЯAcademy
 </p>
 <p align="center">
-Currently Selling Private MW2 Cheats in the store, There are a few free cheats here but they are not as good as paid ones...
+Got smol pp? bro i cant fix that, like nigga cmon :/
 </p>
 
 <p align="center">
